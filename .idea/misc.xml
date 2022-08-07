@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_blue.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_green_stroke_yellow.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_red.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_stroke_green.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_white.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_white_stroke_violet.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_white_stroke_yellow.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_18_white_troke_violet.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_hinhtron.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_top_18_violet.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/corner_top_18_yellow.xml" value="0.2145" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/drawable/custom_et_1.xml" value="0.162" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/activity_register.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/activity_sign_up.xml" value="0.2553846153846154" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/dialog_khoan.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/dialog_loai.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__chi.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__chung.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__gioi_thieu.xml" value="0.2453125" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__khoan_chi.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__khoan_thu.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__loai_chi.xml" value="0.2453125" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__loai_thu.xml" value="0.2453125" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__thong_ke.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/fragment__thu.xml" value="0.2553846153846154" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/header_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/item_khoan_thu_chi.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/item_loai_thu_chi.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/item_search.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/item_spinner.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/layout/item_thong_ke.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/Assigment_minhngph25430/app/src/main/res/menu/main_menu_navigation.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
