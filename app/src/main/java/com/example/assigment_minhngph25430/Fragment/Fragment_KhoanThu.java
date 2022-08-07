@@ -190,7 +190,7 @@ public class Fragment_KhoanThu extends Fragment implements Adapter_khoan.OnActio
                     Khoan obj = new Khoan(db.getSTT(),Integer.parseInt(tien),ma_loai);
                     db.create(obj);
                     list.add(obj);
-                    if(duLieuTim.length() > 0){
+                    if(list_tam.size() > 0){
                         adapter.setData(list);
                     }
                     else
